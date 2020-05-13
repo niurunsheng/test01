@@ -7,5 +7,6 @@ public class abc {
         System.out.println("我是idea的冲突1");
         System.out.println("我是idea的冲突2");
 
+        System.out.println("lallalallalallalalal");
     }
 }
